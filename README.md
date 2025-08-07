@@ -38,8 +38,3 @@ The objective of this project is to perform exploratory data analysis (EDA) on a
 - **Plotly**
 
 
-## 📄 Internship Report
-
-You can read the full internship report here:
-
-👉 [Open PDF Report in Browser](https://github.com/Farhankhan-99/Cognifyz-Data-analysis-project/raw/main/Cognifyz_Data_Analysis_Report.pdf)
