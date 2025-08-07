@@ -28,6 +28,14 @@ The objective of this project is to perform exploratory data analysis (EDA) on a
 
 ---
 
+## 📄 Internship Report
+
+You can read the full internship report here:
+
+👉 [Open PDF Report in Browser](https://drive.google.com/file/d/1JqvE6teZ281xOcomeycZH73X0x9FUB_7/view?usp=sharing)
+
+
+---
 ## 🛠️ Tools & Technologies Used
 
 - **Python** (Jupyter Notebook)
