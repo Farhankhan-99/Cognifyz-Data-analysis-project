@@ -37,3 +37,7 @@ The objective of this project is to perform exploratory data analysis (EDA) on a
 - **Seaborn**
 - **Plotly**
 
+
+📌 [View the Internship Report (PDF)](./Cognifyz_Data_Analysis_Report.pdf)
+
+
